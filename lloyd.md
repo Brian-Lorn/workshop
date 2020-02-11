@@ -1,9 +1,8 @@
-Mention Scale, disaggregation, administrative areas, grid cells/raster
-Uniform distribution, proportionate allocation
+# Response to Blumenstock
+Brian Lorn
 
-Response:
+February 10
 
-Perspective Question: In the Lloyd et al. article, the authors introduce a method that uses a number of different openly available geospatial datasets
-in order to produce high resolution, global gridded descriptions of human populations. Describe the geospatial datasets the authors are using in their
-methodology. How is their method an improvement when compared to a conventional census? Are you able to describe how the authors use a number of different
-geospatial layers with their data science method in order to produce a high resolution, global gridded description of human population?
+Within the article, the geospatial datasets are taken over large regions such as a country and disaggregated into 100-meter squares which are being used as the base unit. This scales down the data from an enormous country to more manageable areas. In addition to population data gained through a census, the authors are also using datasets such as the topographical appearance of each area as there are trends associated between elevation and population. This topographical appearance is also in the form of a raster file which differs from a vector file in that it contains values split into grid cells rather than only having values at specified points. The data used is usually gathered by satellites which are able to accurately categorize the different topographical qualities within a region. Additionally, higher elevations and steep slopes tend to have less population residing in those areas. 
+
+This influx of data is helpful in modeling a more accurate representation of the population density as the conventional census might lack data regarding the specificity of the population. Without the additional data gained through satellites and other methods, the census data would be used in a uniform distribution in order to model the population density. This uniform distribution is simply the average population allocated equivalently over an entire administrative area covered by the census. Due to this method being highly susceptible to inconsistencies, the authors choose to model population density by proportional allocation which uses various geospatial datasets that covary with population in order to have a more realistic model. Thus, the authors are choosing to include geospatial datasets which covary with population in order to create a more accurate representation of the region which is a vast improvement over the traditional method.

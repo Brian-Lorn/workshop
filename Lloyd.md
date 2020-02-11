@@ -1,4 +1,4 @@
-# Response to Lloyd
+# Response to Lloyd et al.
 Brian Lorn
 
 February 10

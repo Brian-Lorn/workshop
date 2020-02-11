@@ -10,6 +10,7 @@ Brian Lorn
 ## Responses to Readings
 
 [Blumenstock Response](https://github.com/Brian-Lorn/workshop/blob/master/blumenstock.md)
+
 [Lloyd Response](https://github.com/Brian-Lorn/workshop/blob/master/Lloyd.md)
 
 ## Project 1

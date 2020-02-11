@@ -1,4 +1,4 @@
-# Response to Blumenstock
+# Response to Lloyd
 Brian Lorn
 
 February 10

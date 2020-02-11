@@ -11,7 +11,7 @@ Brian Lorn
 
 [Blumenstock Response](https://github.com/Brian-Lorn/workshop/blob/master/blumenstock.md)
 
-[Lloyd Response](https://github.com/Brian-Lorn/workshop/blob/master/Lloyd.md)
+[Lloyd et al. Response](https://github.com/Brian-Lorn/workshop/blob/master/Lloyd.md)
 
 ## Project 1
 

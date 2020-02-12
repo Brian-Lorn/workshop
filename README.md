@@ -15,4 +15,4 @@ Brian Lorn
 
 ## Project 1
 
-1. [Cambodia Plot](https://github.com/Brian-Lorn/workshop/blob/master/cambodia.png)
+1. [Project 1](https://github.com/Brian-Lorn/workshop/blob/master/project1.md)

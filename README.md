@@ -1,4 +1,4 @@
-# Catalog
+# Catalog of Work
 
 Brian Lorn
 

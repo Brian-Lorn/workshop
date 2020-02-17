@@ -13,6 +13,8 @@ Brian Lorn
 
 [Lloyd et al. Response](https://github.com/Brian-Lorn/workshop/blob/master/Lloyd.md)
 
+[Response to Wardrop et al.](https://github.com/Brian-Lorn/workshop/blob/master/Wardrop.md)
+
 ## Project 1
 
 1. [Project 1](https://github.com/Brian-Lorn/workshop/blob/master/project1.md)

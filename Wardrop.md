@@ -1,26 +1,10 @@
 # Response to Wardrop et al.
 Brian Lorn
 
-February 10
+February 17
 
-In the reading, the authors discussed two different types of methods in order to calculate the spatial relation between the population and
-each administrative area. The first being the top-down method. The top down method is done by taking census data of a population and breaking
-it up into administrative districts. From there, other variables that covary with population such as land coverage and distance to major
-roads are used along with the population, broken down by administrative districts, in order to produce a model which represents the spatial
-location of the population density. The other method is known as the bottom-up method. This method has the opposite approach compared to the
-previous method in that it uses small sections of data known as microcensus surveys as its basis along with other covariates such as 
-satellite coverage and area type in order to produce a model which relates population density with spatial location. The production of this
-model is done through statistical modeling which relies on the base data along with many other covariates in order to be accurate.
+In the reading, the authors discussed two different types of methods in order to calculate the spatial relation between the population and each administrative area. The first being the top-down method. The top down method is done by taking census data of a population and breaking it up into administrative districts. From there, other variables that covary with population such as land coverage and distance to major roads are used along with the population, broken down by administrative districts, in order to produce a model which represents the spatial location of the population density. The other method is known as the bottom-up method. This method has the opposite approach compared to the previous method in that it uses small sections of data known as microcensus surveys as its basis along with other covariates such as satellite coverage and area type in order to produce a model which relates population density with spatial location. The production of this model is done through statistical modeling which relies on the base data along with many other covariates in order to be accurate.
 
-One similarity between the two is that both heavily rely on the original population data collected from surveys. This means that there is a
-strong correlation between the accuracy of the original data and the accuracy of the model. While this is true for both methods, the bottom-up
-method is especially susceptible because it uses its microcensus data in order to model the entire rest of the population which is why outlier
-data such as a single isolated region has an even greater affect in hindering its accuracy. Another similarity is that they are both used
-to model the spatial relation of the population in different administrative districts.
+One similarity between the two is that both heavily rely on the original population data collected from surveys. This means that there is a strong correlation between the accuracy of the original data and the accuracy of the model. While this is true for both methods, the bottom-up method is especially susceptible because it uses its microcensus data in order to model the entire rest of the population which is why outlier data such as a single isolated region has an even greater affect in hindering its accuracy. Another similarity is that they are both used to model the spatial relation of the population in different administrative districts.
 
-In terms of differences, they use the opposite approach and rely on different sets of data. Due to that, it might be more manageable to use
-the bottom-up method in comparison with the top-down method because it is less costly than a population census of the entire country and its
-subdivisions. Another difference is that the bottom-up uses statistical modeling in order to create a representation of the entire region
-instead of having data of the entire population and attempting to disaggregate it. Compared to past methods, these are both more accurate
-than previous methods in that it uses covariates in order to increase the accuracy   of the model. This is true for past methods such as 
-uniformly representing the population with its land distribution.
+In terms of differences, they use the opposite approach and rely on different sets of data. Due to that, it might be more manageable to use the bottom-up method in comparison with the top-down method because it is less costly than a population census of the entire country and its subdivisions. Another difference is that the bottom-up uses statistical modeling in order to create a representation of the entire region instead of having data of the entire population and attempting to disaggregate it. Compared to past methods, these are both more accurate than previous methods in that it uses covariates in order to increase the accuracy   of the model. This is true for past methods such as uniformly representing the population with its land distribution.

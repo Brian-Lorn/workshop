@@ -10,6 +10,6 @@ A brief description
 
 Some challenges I had with producing this plot. Some findings I made.
 
-## Population of Cambodia's Counties
+## Population of Cambodia's Provinces
 
 ## Population of Cambodia's

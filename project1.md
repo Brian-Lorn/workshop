@@ -22,6 +22,10 @@ One of the issues I faced while creating this model was making sure variable nam
 
 After creating this model, I noticed that, as expected, Phnom Penh and Siemréab both had high populations, yet the province next to Siemréab known as Batdâmbâng had a higher population which was approximately equivalent to the capital. Intrigued by this result, I began doing some research. It turns out that Batdâmbâng is the leading rice-producing province and is an important trading center which connects Phnom Penh to Thailand. This explains why the population is so incredibly dense along with the amount of districts seen in the previous model.
 
-## Population of Cambodia's
+## Population & Density of Cambodia's Provinces
+
+The following models represent the population and density of Cambodia's provinces along with how each province reprsents the total population within Cambodia. On the left, there is a map where gray outlines delineate between provinces while black text represents the names and density of each. The specific amount of population within each province is represented by some color on the gradient shown in the legend. To the right, a bargraph is used to show the provinces and the populations of each associated with them. Additionally, a percentage is also included which shows how much of the total population is located within that singular province.
 
 ![](cambodia_2020.png)
+
+I produced this by using the data associated with Cambodia and its provinces. Since the data for this region was relatively small, I did not need to use a pipe operator in order to specify my model to a specifc first level subdivision. 

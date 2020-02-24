@@ -8,15 +8,19 @@ The following map depicts the first administrative subdivisions of Cambodia know
 
 ![](cambodia.png)
 
-One of the challenges I faced when creating this model was the non-uniform appearance of the districts. Looking at the model, most of the districts are centered around the capital Phnom Penh which makes it hard to read if the text size is too large. However, if I chose to make the text size much smaller, there would be a similar problem. In order to remedy this, I chose to change the text color to red in order to make it more legible and distinct from the name of the provinces. After creating this model, I was intrigued as to why there were so many districts clustered around certain areas. After doing a bit of research, I was able to learn that the districts near the south are near the capital, necessitating several districts in order to properly represent the dense population. For the north west, there is a temple named Angkor Wat located in Siemréab. Due it being a popular tourist destination, there is a lot of business in and around the area which needs several districts in order to represent its dense population.
+One of the challenges I faced when creating this model was the non-uniform appearance of the districts. Looking at the model, most of the districts are centered around the capital Phnom Penh which makes it hard to read if the text size is too large. However, if I chose to make the text size much smaller, there would be a similar problem. In order to remedy this, I chose to change the text color to red in order to make it more legible and distinct from the name of the provinces.
+
+After creating this model, I was intrigued as to why there were so many districts clustered around certain areas. After doing a bit of research, I was able to learn that the districts near the south are near the capital, necessitating several districts in order to properly represent the dense population. For the north west, there is a temple named Angkor Wat located in Siemréab. Due it being a popular tourist destination, there is a lot of business in and around the area which needs several districts in order to represent its dense population.
 
 ## Population of Cambodia's Provinces
 
-The following map depicts the provinces of Cambodia by their population.
+The following map depicts the provinces of Cambodia by their population. The gray outlines delineate between provinces and show the international border while the black text represents the names of the provinces. As shown in the legend, the gradient of colors used directly correlates to the population of the province. Lastly, the data used to create this model was collected in 2020 from WorldPop.
 
 ![](khm_pop20.png)
 
+One of the issues I faced while creating this model was making sure variable names stayed consistent and referred to the correct data. This was important because the coding matched population data with their respective provinces which could be incorrectly represented if the wrong variable name was used. In the process of creating this model, there were a few times where errors occurred and most of those were due to incorrect variable names. 
 
+After creating this model, I noticed that, as expected, Phnom Penh and Siemréab both had high populations, yet the province next to Siemréab known as Batdâmbâng had a higher population which was approximately equivalent to the capital. Intrigued by this result, I began doing some research. It turns out that Batdâmbâng is the leading rice-producing province and is an important trading center which connects Phnom Penh to Thailand. This explains why the population is so incredibly dense along with the amount of districts seen in the previous model.
 
 ## Population of Cambodia's
 

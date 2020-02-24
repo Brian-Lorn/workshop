@@ -4,17 +4,17 @@ Brian Lorn
 
 ## Workshop
 
-1. [Line Plot](https://github.com/Brian-Lorn/workshop/blob/master/plot2.png)
+1. [Line Plot](https://brian-lorn.github.io/workshop/plot2)
 2. [The Path of a Salesman - Plot](https://github.com/Brian-Lorn/workshop/blob/master/The%20Path%20of%20a%20Salesman.png)
 
 ## Responses to Readings
 
-[Blumenstock Response](https://github.com/Brian-Lorn/workshop/blob/master/blumenstock.md)
+[Blumenstock Response](https://brian-lorn.github.io/workshop/blumenstock)
 
-[Lloyd et al. Response](https://github.com/Brian-Lorn/workshop/blob/master/Lloyd.md)
+[Lloyd et al. Response](https://brian-lorn.github.io/workshop/Lloyd)
 
-[Response to Wardrop et al.](https://github.com/Brian-Lorn/workshop/blob/master/Wardrop.md)
+[Response to Wardrop et al.](https://brian-lorn.github.io/workshop/Wardrop)
 
-## Project 1
+## P
 
-1. [Project 1](https://github.com/Brian-Lorn/workshop/blob/master/project1.md)
+1. [Project 1](https://brian-lorn.github.io/workshop/project1)

@@ -15,6 +15,6 @@ Brian Lorn
 
 [Response to Wardrop et al.](https://brian-lorn.github.io/workshop/Wardrop)
 
-## P
+## Project 1
 
 1. [Project 1](https://brian-lorn.github.io/workshop/project1)

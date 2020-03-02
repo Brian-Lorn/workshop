@@ -1,4 +1,4 @@
-# Response to Wardrop et al.
+# Response to Stevens et al.
 Brian Lorn
 
 March 2

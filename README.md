@@ -13,7 +13,9 @@ Brian Lorn
 
 [Lloyd et al. Response](https://brian-lorn.github.io/workshop/Lloyd)
 
-[Response to Wardrop et al.](https://brian-lorn.github.io/workshop/Wardrop)
+[Wardrop et al. Response](https://brian-lorn.github.io/workshop/Wardrop)
+
+[Stevens et al. Response](https://brian-lorn.github.io/workshop/Stevens)
 
 ## Project 1
 

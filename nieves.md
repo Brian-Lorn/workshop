@@ -1,4 +1,4 @@
-# Response to Blumenstock
+# Response to Nieves et al.
 Brian Lorn
 
 March 25

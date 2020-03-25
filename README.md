@@ -17,7 +17,7 @@ Brian Lorn
 
 [Stevens et al. Response](https://brian-lorn.github.io/workshop/Stevens)
 
-[Nieves et al.](https://brian-lorn.github.io/workshop/Nieves)
+[Nieves et al. Response](https://brian-lorn.github.io/workshop/Nieves)
 
 ## Projects
 

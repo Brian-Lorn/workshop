@@ -1,4 +1,4 @@
-# Project 1: Cambodia
+# Project 2: Cambodia
 
 Brian Lorn
 

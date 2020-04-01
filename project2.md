@@ -6,7 +6,7 @@ Brian Lorn
 
 ![](khm_1_pop.png)
 
-The figure above is a 3D model of Phnom Penh at the first level administrative division of Cambodia. While the first level divisions are usually known as provinces, Phnom Penh is classified as an autonomous municipality. This was a model using data from the first administrative division along with a population model found through summing all of the land use and land cover covariates. Since Cambodia's population is highly concentrated in urban areas and extremely low in rural areas, the city Phnom Penh is highly elevated compared to the other regions. In addition, the population has not undergone a logerithm operation, so the population of each region can vary greatly which is shown by the large difference in elevation.
+The figure above is a 3D model of Phnom Penh at the first level administrative division of Cambodia. While the first level divisions are usually known as provinces, Phnom Penh is classified as an autonomous municipality. This was a model using data from the first administrative division along with a population model found through summing all of the land use and land cover covariates. Since Cambodia's population is highly concentrated in urban areas and extremely low in rural areas, the city Phnom Penh is highly elevated compared to the other regions. In addition, the population has not undergone a logarithmic operation, so the population of each region can vary greatly which is shown by the large difference in elevation.
 
 ![](khm_PP_1.png)
 

@@ -2,6 +2,18 @@
 
 Brian Lorn
 
+## Histograms with Desnity Plots
+
+![](histogram_dst040.png)
+
+![](histogram_pop20.png)
+
+## Linear Models
+
+![](lm_dst040.png)
+
+![](lm_all.png)
+
 ## Phnom Penh (using ADM1)
 
 ![](khm_1_pop.png)

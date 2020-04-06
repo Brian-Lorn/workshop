@@ -2,17 +2,25 @@
 
 Brian Lorn
 
-## Histograms with Desnity Plots
+## Histograms with Density Plots
 
 ![](histogram_dst040.png)
 
+The figure above is a histogram combined with a density plot of the dst040 variable which is data on trees across Cambodia's second level administrative divisions. The histogram, represented by the bars of varying heights, describes how often a certain value appears within the data set while the density plot represents the same data except as a continous function. Thus, the figure shows that most of Cambodia's second level administrative divisions have between zero and a million trees.
+
 ![](histogram_pop20.png)
+
+The figure above is a histogram combined with a density plot of the population of Cambodia across Cambodia's second level administrative divisions after undergoing a logarithmic operation. The histogram, represented by the bars of varying heights, describes how often a certain value appears within the data set while the density plot represents the same data except as a continous function. Thus, the figure shows that most of Cambodia's second level administrative divisions have similar populations with some outliers at the latter end. This fits in line with Cambodia having many rural areas coupled with a few densely, populated urban areas.
 
 ## Linear Models
 
 ![](lm_dst040.png)
 
+The figure above is a linear model between population and data on trees. For the figure, the adjusted R-squared value is 0.06223 while the p-value is 0.0004602. The former represents how well the two variables are represented by a linear model. Since the value is as low as 0.06223, this demonstrates that only using data on forests to predict population will give a very result. The latter describes how accurate this data is compared to the alternative, so this value should be as low as possible in order to ensure that the data being represented is correct. Compared to most p-values, this is rather high which calls the accuracy of our model into question.
+
 ![](lm_all.png)
+
+The figure above is a linear model between population and the sum of all the covariates within the land use and land cover package. For the figure, the adjusted R-squared value is 0.5845 while the p-value is 2.2e-16. Since the R-squared value is much higher than the previous model, this demonstrates that using more variables increases the accuracy of our model. In addition, the p-value found in this model is significantly lower than it was previously which gives credibility to this model. Thus, predicting population based on a sum of all of its covaraites is fairly accurate, and something that will be further explored below to model different regions.
 
 ## Phnom Penh (using ADM1)
 

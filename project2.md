@@ -10,13 +10,13 @@ The figure above is a histogram combined with a density plot of the dst040 varia
 
 ![](histogram_pop20.png)
 
-The figure above is a histogram combined with a density plot of the population of Cambodia across Cambodia's second level administrative divisions after undergoing a logarithmic operation. The histogram, represented by the bars of varying heights, describes how often a certain value appears within the data set while the density plot represents the same data except as a continous function. Thus, the figure shows that most of Cambodia's second level administrative divisions have similar populations with some outliers at the latter end. This fits in line with Cambodia having many rural areas coupled with a few densely, populated urban areas.
+The figure above is a histogram combined with a density plot of the population of Cambodia across Cambodia's second level administrative divisions after undergoing a logarithmic operation. The histogram, represented by the bars of varying heights, describes how often a certain value appears within the data set while the density plot represents the same data except as a continous function. Thus, the figure shows that most of Cambodia's second level administrative divisions have similar populations with some outliers at the latter end. This fits in line with Cambodia having many lowly populated rural areas coupled with a few densely populated urban areas.
 
 ## Linear Models
 
 ![](lm_dst040.png)
 
-The figure above is a linear model between population and data on trees. For the figure, the adjusted R-squared value is 0.06223 while the p-value is 0.0004602. The former represents how well the two variables are represented by a linear model. Since the value is as low as 0.06223, this demonstrates that only using data on forests to predict population will give a very result. The latter describes how accurate this data is compared to the alternative, so this value should be as low as possible in order to ensure that the data being represented is correct. Compared to most p-values, this is rather high which calls the accuracy of our model into question.
+The figure above is a linear model between population and data on trees. For the figure, the adjusted R-squared value is 0.06223 while the p-value is 0.0004602. The former represents how well the two variables are represented by a linear model. Since the value is as low as 0.06223, this demonstrates that only using data on trees to predict population will give a very poor result. The latter describes how accurate this data is compared to the alternative, so this value should be as low as possible in order to ensure that the data being represented is correct. Compared to most p-values, this is rather high which calls the accuracy of our model into question.
 
 ![](lm_all.png)
 

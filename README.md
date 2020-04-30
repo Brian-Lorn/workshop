@@ -24,3 +24,4 @@ Brian Lorn
 1. [Project 1](https://brian-lorn.github.io/workshop/project1)
 2. [Project 2](https://brian-lorn.github.io/workshop/project2)
 3. [Project 3](https://brian-lorn.github.io/workshop/project3)
+4. [Project 4](https://brian-lorn.github.io/workshop/project4)

@@ -52,3 +52,21 @@ The figure above is a 3D model of Phnom Penh at the second level administrative 
 
 
 The figure above is a map of the difference between the predicted values of population and the actual population. Within this model, the difference between the predicted and actual values of population is only 200 on average, meaning the population model is a fairly accurate depiction of the city. Taking both figures into consideration, it can be seen that the densest areas of population also coincide with the densest areas of urban development.
+
+## Human Settlements, Roadways, and Health Care Facilities within the Kampot District
+
+
+![](kampot_hcf.png)
+
+
+The figure above is a map of the Kampot district which is a second level administrative division within Cambodia. Throughout the entire region, there is a total population of 143,540 people. The figure depicts the urbanized areas and their population densitites throughout the region. These areas were found by sifting through population counts and densities. The large urabnized area located in the eastern part of the district is connected to another district to the southwest which is much smaller but highly populated in comparison to Kampot.
+
+In addition to the urbanized areas and population density, the figure above also depicts major roadways and health care services throughout the region. For the map, blue dots denote a hospital, green dots signify pharmacies, and purple dots are all the other services. These other services are comprised of doctors, dentists, and clinics. As shown by the figure, most of the major road networks reside in the south in order to travel in between the largest shaded area and the urbanized district found below. This makes sense because most of the north is sparsely populated. Outside the eastern part of the district, there are few to no primary roads, making it difficult to travel accross the region. While it is difficult to traverse the region due to the lack of primary roads, the region does not need them since most of its population is centered near primary roadways.
+
+For the health care services, a majority of the services reside outside the district. This means that most people must make a long commute in order to access health care services with the exception of those who live near the southern border. Additionally, there are no services offered in the northern regions of the district. Thus, access to health care services is rather poor for this district.
+
+
+![](kampot_district.png)
+
+
+The figure above is a 3D model of the Kampot district with the same information from the previous map. Within the model, it can be seen that most of the western parts of the region are mountinous. This moutinous region explains most of the conclusions reached from the previous map. Since mountinous terrain discourages human settlements, there is little population anywhere within that entire region. Due to a lack of population, there is no need to have roadways through that part of the region since there is an extremely low amount of traffic. Lastly, there are no health care facilities in the north because the region has very few settlements due to the terrain. Thus, there is a lack of human development in most of the district due to the mountinous terrain.
